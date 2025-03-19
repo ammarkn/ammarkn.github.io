@@ -3,4 +3,4 @@ Personal website.
 
 ---
 
-See [ammarkn.com](http://ammarkn.com).
+Link: [http://ammarkn.com](http://ammarkn.com).
